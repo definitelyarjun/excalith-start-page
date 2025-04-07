@@ -1,5 +1,5 @@
 {
-	"username": "Home",
+	"username": "arjun jayakumar",
 	"title": "New Tab",
 	"theme": {
 		"name": "Default",
@@ -115,164 +115,123 @@
 	"sections": {
 		"list": [
 			{
-				"title": "General",
+				"title": "Social",
 				"color": "green",
 				"align": "left",
 				"links": [
 					{
-						"name": "Portfolio",
-						"url": "https://cancellek.com",
-						"icon": "mdi:web"
+						"name": "YouTube",
+						"url": "https://youtube.com",
+						"icon": "mdi:youtube"
 					},
 					{
-						"name": "Keybase",
-						"url": "https://keybase.io/",
-						"icon": "fa-brands:keybase"
+						"name": "Discord",
+						"url": "https://discord.com",
+						"icon": "mdi:discord"
 					},
 					{
-						"name": "GPT",
-						"url": "https://chat.openai.com/",
-						"icon": "simple-icons:openai"
+						"name": "Instagram",
+						"url": "https://instagram.com",
+						"icon": "mdi:instagram"
 					},
-					{
-						"name": "OCI",
-						"url": "https://www.oracle.com/cloud/",
-						"icon": "simple-icons:oracle"
-					}
-				]
-			},
-			{
-				"title": "Dev",
-				"color": "magenta",
-				"align": "left",
-				"links": [
-					{
-						"name": "GitHub",
-						"url": "https://github.com",
-						"icon": "mdi:github"
-					},
-					{
-						"name": "GitLab",
-						"url": "https://gitlab.com",
-						"icon": "ph:gitlab-logo-simple-fill"
-					},
-					{
-						"name": "Dev.to",
-						"url": "https://dev.to",
-						"icon": "material-symbols:logo-dev"
-					},
-					{
-						"name": "Stack Overflow",
-						"url": "https://stackoverflow.com/",
-						"icon": "mdi:stack-overflow"
-					}
-				]
-			},
-			{
-				"title": "Social",
-				"color": "cyan",
-				"align": "left",
-				"links": [
 					{
 						"name": "Twitter",
 						"url": "https://twitter.com",
 						"icon": "mdi:twitter"
 					},
 					{
-						"name": "Mastodon",
-						"url": "https://mastodon.social/",
-						"icon": "ri:mastodon-fill"
+						"name": "LinkedIn",
+						"url": "https://linkedin.com",
+						"icon": "mdi:linkedin"
 					},
 					{
-						"name": "Reddit",
-						"url": "https://reddit.com",
-						"icon": "mdi:reddit"
-					},
-					{
-						"name": "Polywork",
-						"url": "https://polywork.com",
-						"icon": "simple-icons:polywork"
+						"name": "GitHub",
+						"url": "https://github.com",
+						"icon": "mdi:github"
 					}
 				]
 			},
 			{
-				"title": "Gaming",
+				"title": "Google",
 				"color": "red",
 				"align": "left",
 				"links": [
 					{
-						"name": "Polygon",
-						"url": "https://polygon.com",
-						"icon": "uil:polygon"
+						"name": "Gmail",
+						"url": "https://mail.google.com",
+						"icon": "mdi:gmail"
 					},
 					{
-						"name": "IGN",
-						"url": "https://ign.com",
-						"icon": "mdi:currency-sign"
+						"name": "Drive",
+						"url": "https://drive.google.com",
+						"icon": "mdi:google-drive"
 					},
 					{
-						"name": "RPS",
-						"url": "https://rockpapershotgun.com/",
-						"icon": "ph:toilet-paper-bold"
+						"name": "Calendar",
+						"url": "https://calendar.google.com",
+						"icon": "mdi:calendar"
 					},
 					{
-						"name": "80lv",
-						"url": "https://80.lv/",
-						"icon": "tabler:hand-rock"
+						"name": "Keep",
+						"url": "https://keep.google.com",
+						"icon": "mdi:google-keep"
+					},
+					{
+						"name": "Photos",
+						"url": "https://photos.google.com",
+						"icon": "mdi:google-photos"
 					}
 				]
 			},
 			{
-				"title": "Science",
-				"color": "blue",
+				"title": "Tools",
+				"color": "magenta",
 				"align": "left",
 				"links": [
 					{
-						"name": "PopSci",
-						"url": "https://popsci.com/",
-						"icon": "material-symbols:science"
+						"name": "Bitwarden",
+						"url": "https://bitwarden.com",
+						"icon": "simple-icons:bitwarden"
 					},
 					{
-						"name": "Space",
-						"url": "fa6-solid:user-astronaut",
-						"icon": "mdi:reddit"
+						"name": "Claude",
+						"url": "https://claude.ai",
+						"icon": "simple-icons:anthropic"
 					},
 					{
-						"name": "NASA",
-						"url": "https://blogs.nasa.gov/",
-						"icon": "simple-icons:nasa"
+						"name": "Grok",
+						"url": "https://grok.x.ai",
+						"icon": "mdi:robot-outline"
 					},
 					{
-						"name": "ESA",
-						"url": "https://blogs.esa.int/",
-						"icon": "mdi:black-mesa"
-					}
-				]
-			},
-			{
-				"title": "Tech",
-				"color": "yellow",
-				"align": "left",
-				"links": [
-					{
-						"name": "TechCrunch",
-						"url": "https://techcrunch.com/",
-						"icon": "game-icons:techno-heart"
+						"name": "Perplexity",
+						"url": "https://perplexity.ai",
+						"icon": "simple-icons:perplexity"
 					},
 					{
-						"name": "Verge",
-						"url": "https://www.theverge.com/",
-						"icon": "arcticons:verge"
+						"name": "Deepseek",
+						"url": "https://chat.deepseek.com",
+						"icon": "mdi:brain"
 					},
 					{
-						"name": "It's Foss",
-						"url": "https://itsfoss.com/",
-						"icon": "ri:mastodon-fill"
+						"name": "Cobalt Tools",
+						"url": "https://cobalt.tools",
+						"icon": "mdi:tools"
 					},
 					{
-						"name": "9To5 Linux",
-						"url": "https://9to5linux.com/",
-						"icon": "uil:linux"
+						"name": "Hugging Face",
+						"url": "https://huggingface.co",
+						"icon": "simple-icons:huggingface"
+					},
+					{
+						"name": "ChatGPT",
+						"url": "https://chat.openai.com",
+						"icon": "simple-icons:openai"
+					},
+					{
+						"name": "Excalidraw",
+						"url": "https://excalidraw.com",
+						"icon": "mdi:draw"
 					}
 				]
 			}
