@@ -190,7 +190,7 @@
 				"links": [
 					{
 						"name": "Bitwarden",
-						"url": "https://bitwarden.com",
+						"url": "https://vault.bitwarden.com/#/login",
 						"icon": "simple-icons:bitwarden"
 					},
 					{
@@ -200,7 +200,7 @@
 					},
 					{
 						"name": "Grok",
-						"url": "https://grok.x.ai",
+						"url": "https://grok.com/",
 						"icon": "mdi:robot-outline"
 					},
 					{
